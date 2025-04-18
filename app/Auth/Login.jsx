@@ -44,7 +44,7 @@ const Login = () => {
 								<input
 									type={field}
 									id={field}
-									className="appearance-none border border-zinc-700 bg-zinc-800 text-white w-full py-2 px-3 leading-tight focus:outline-none focus:outline-none focus:ring-zinc-700 focus:ring"
+									className="appearance-none border border-zinc-700 bg-zinc-800 text-white w-full py-2 px-3 leading-tight focus:outline-none focus:ring-zinc-700 focus:ring"
 									placeholder={field.charAt(0).toUpperCase() + field.slice(1)}
 									required
 								/>
